@@ -101,12 +101,12 @@ class _HomescreenState extends State<Homescreen> {
                                             Colors.purple,
                                           ],
                                         ),
-                                       // WavyAnimatedText('Hello good morning'),
-                                        //TyperAnimatedText('Hello I am Khukan'),
-                                        //FadeAnimatedText('Here’s an example of how you can implement'),
-                                        //FlickerAnimatedText('Para aquellos que prefieren hablar'),
-                                       // RotateAnimatedText('Here’s an example of how you can implement'),
-                                        ScaleAnimatedText('Here’s an example of how you can implement')
+                                       WavyAnimatedText('Hello good morning'),
+                                        TyperAnimatedText('Hello I am Khukan'),
+                                        FadeAnimatedText('Here’s an example of how you can implement'),
+                                        FlickerAnimatedText('Para aquellos que prefieren hablar'),
+
+
                                       ])
                                 ],
                               ),
