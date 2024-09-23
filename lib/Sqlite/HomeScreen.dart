@@ -104,8 +104,6 @@ class _HomescreenState extends State<Homescreen> {
                                        WavyAnimatedText('Hello good morning'),
                                         TyperAnimatedText('Hello I am Khukan'),
                                         FadeAnimatedText('Here’s an example of how you can implement'),
-                                        FlickerAnimatedText('Para aquellos que prefieren hablar'),
-
 
                                       ])
                                 ],
